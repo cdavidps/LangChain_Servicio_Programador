@@ -1,0 +1,5 @@
+SoftwareCraft Solutions - Servicios de Construcción de Software:
+1. Desarrollo Web: Creamos aplicaciones escalables usando React y FastAPI.
+2. Soluciones Cloud: Expertos en despliegue en AWS, Azure y Google Cloud.
+3. Consultoría MLOps: Implementamos flujos de trabajo para modelos de IA.
+4. Contacto: Estamos en Lima, Perú. Nuestro correo es contacto@softwarecraft.pe.
