@@ -1,1 +1,15 @@
+# Entorno virtual y dependencias
+venv/
+__pycache__/
+*.py[cod]
 
+# Variables de entorno (¡CRÍTICO!)
+.env
+
+# Bases de datos y archivos grandes
+data/chroma_db/
+*.log
+
+# Carpetas de sistema/IDE
+.vscode/
+.DS_Store
